@@ -1,6 +1,6 @@
 # jaccard-similarity-with-k-shingle
 
-Big Data Project
+Big Data Course Project
 
 There are approximately 1000 articles (from Associated Press, each with 300-500 characters) in dokumanlar.txt.
 
