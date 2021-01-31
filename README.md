@@ -2,7 +2,9 @@
 
 Big Data Project
 
-Approximately 1000 articles (from Associated Press, each with 300-500 characters) are compared.
+There are approximately 1000 articles (from Associated Press, each with 300-500 characters) in dokumanlar.txt.
+
+You can find jaccard similarity between theese articles by using k-shingle.
 
 There are 3 types of shingles in the application.
 
